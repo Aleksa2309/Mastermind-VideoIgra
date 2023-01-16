@@ -1,0 +1,11 @@
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\bin\Debug\Mastermind-VideoIgra.exe.config
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\bin\Debug\Mastermind-VideoIgra.exe
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\bin\Debug\Mastermind-VideoIgra.pdb
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.csproj.AssemblyReference.cache
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind_VideoIgra.Form1.resources
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind_VideoIgra.Properties.Resources.resources
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.csproj.GenerateResource.cache
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.csproj.CoreCompileInputs.cache
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.exe
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.pdb
