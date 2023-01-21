@@ -16,5 +16,8 @@ namespace Mastermind_VideoIgra
         {
             InitializeComponent();
         }
+
+      
+
     }
 }
