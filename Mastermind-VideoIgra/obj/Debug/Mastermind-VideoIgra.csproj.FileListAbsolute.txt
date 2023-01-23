@@ -9,3 +9,4 @@ D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-Video
 D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.csproj.CoreCompileInputs.cache
 D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.exe
 D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind-VideoIgra.pdb
+D:\Projects\Mastermind-VideoIgra\Mastermind-VideoIgra\obj\Debug\Mastermind_VideoIgra.Form2.resources
