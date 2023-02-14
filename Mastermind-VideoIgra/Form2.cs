@@ -35,6 +35,16 @@ namespace Mastermind_VideoIgra
                 sledeci.BackColor = odredjivacBoje.BackColor;
             }
         } 
+        private void Proveri_Rezultat()
+        {
+            if(trenutno_polje / 4 == 0)
+            {
+                for (int i = 0; i < 4; i++)
+                {
+                    
+                }
+            }
+        }
       
        // int skok = 0;
 
